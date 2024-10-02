@@ -7,18 +7,44 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1869A3852C859D7700124DBB /* SwipeActionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1869A3842C859D7700124DBB /* SwipeActionView.swift */; };
+		1869A3872C85A36100124DBB /* NotificationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1869A3862C85A36100124DBB /* NotificationsView.swift */; };
+		1869A3AD2C8EE57300124DBB /* ProspectsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1869A3AC2C8EE57300124DBB /* ProspectsView.swift */; };
+		1869A3AF2C8EE58B00124DBB /* MeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1869A3AE2C8EE58B00124DBB /* MeView.swift */; };
+		1869A3B22C8F74EB00124DBB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1869A3B12C8F74EB00124DBB /* ContentView.swift */; };
+		1869A3B42C8F7B9800124DBB /* Prospect.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1869A3B32C8F7B9800124DBB /* Prospect.swift */; };
+		1869A3B62C9051A100124DBB /* PackageManagerUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1869A3B52C9051A100124DBB /* PackageManagerUI.swift */; };
+		1869A3B92C90556000124DBB /* SamplePackage in Frameworks */ = {isa = PBXBuildFile; productRef = 1869A3B82C90556000124DBB /* SamplePackage */; };
+		1869A3BC2C906F7000124DBB /* CodeScanner in Frameworks */ = {isa = PBXBuildFile; productRef = 1869A3BB2C906F7000124DBB /* CodeScanner */; };
 		189020D72C83439B00707356 /* HotProspectsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189020D62C83439B00707356 /* HotProspectsApp.swift */; };
-		189020D92C83439B00707356 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189020D82C83439B00707356 /* ContentView.swift */; };
+		189020D92C83439B00707356 /* ContentViewSecond.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189020D82C83439B00707356 /* ContentViewSecond.swift */; };
 		189020DB2C83439D00707356 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 189020DA2C83439D00707356 /* Assets.xcassets */; };
 		189020DE2C83439D00707356 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 189020DD2C83439D00707356 /* Preview Assets.xcassets */; };
+		189020E52C838F6300707356 /* TabViewUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189020E42C838F6300707356 /* TabViewUI.swift */; };
+		189020E72C83C52A00707356 /* ResultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189020E62C83C52A00707356 /* ResultView.swift */; };
+		189020E92C83D82700707356 /* InterpolationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189020E82C83D82700707356 /* InterpolationView.swift */; };
+		189020EB2C83DDD400707356 /* ContextMenuUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189020EA2C83DDD400707356 /* ContextMenuUI.swift */; };
+		18FAC2E42CA4302700CF9126 /* PracticeUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18FAC2E32CA4302700CF9126 /* PracticeUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1869A3842C859D7700124DBB /* SwipeActionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipeActionView.swift; sourceTree = "<group>"; };
+		1869A3862C85A36100124DBB /* NotificationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationsView.swift; sourceTree = "<group>"; };
+		1869A3AC2C8EE57300124DBB /* ProspectsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProspectsView.swift; sourceTree = "<group>"; };
+		1869A3AE2C8EE58B00124DBB /* MeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeView.swift; sourceTree = "<group>"; };
+		1869A3B12C8F74EB00124DBB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		1869A3B32C8F7B9800124DBB /* Prospect.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Prospect.swift; sourceTree = "<group>"; };
+		1869A3B52C9051A100124DBB /* PackageManagerUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PackageManagerUI.swift; sourceTree = "<group>"; };
 		189020D32C83439B00707356 /* HotProspects.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HotProspects.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		189020D62C83439B00707356 /* HotProspectsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HotProspectsApp.swift; sourceTree = "<group>"; };
-		189020D82C83439B00707356 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		189020D82C83439B00707356 /* ContentViewSecond.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewSecond.swift; sourceTree = "<group>"; };
 		189020DA2C83439D00707356 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		189020DD2C83439D00707356 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		189020E42C838F6300707356 /* TabViewUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewUI.swift; sourceTree = "<group>"; };
+		189020E62C83C52A00707356 /* ResultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultView.swift; sourceTree = "<group>"; };
+		189020E82C83D82700707356 /* InterpolationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InterpolationView.swift; sourceTree = "<group>"; };
+		189020EA2C83DDD400707356 /* ContextMenuUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuUI.swift; sourceTree = "<group>"; };
+		18FAC2E32CA4302700CF9126 /* PracticeUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,12 +52,30 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1869A3BC2C906F7000124DBB /* CodeScanner in Frameworks */,
+				1869A3B92C90556000124DBB /* SamplePackage in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1869A3B02C8EEA7B00124DBB /* ImportantConcept */ = {
+			isa = PBXGroup;
+			children = (
+				1869A3862C85A36100124DBB /* NotificationsView.swift */,
+				189020E42C838F6300707356 /* TabViewUI.swift */,
+				189020EA2C83DDD400707356 /* ContextMenuUI.swift */,
+				189020E82C83D82700707356 /* InterpolationView.swift */,
+				189020E62C83C52A00707356 /* ResultView.swift */,
+				189020D82C83439B00707356 /* ContentViewSecond.swift */,
+				1869A3842C859D7700124DBB /* SwipeActionView.swift */,
+				18FAC2E32CA4302700CF9126 /* PracticeUIView.swift */,
+				1869A3B52C9051A100124DBB /* PackageManagerUI.swift */,
+			);
+			path = ImportantConcept;
+			sourceTree = "<group>";
+		};
 		189020CA2C83439B00707356 = {
 			isa = PBXGroup;
 			children = (
@@ -51,8 +95,12 @@
 		189020D52C83439B00707356 /* HotProspects */ = {
 			isa = PBXGroup;
 			children = (
+				1869A3B02C8EEA7B00124DBB /* ImportantConcept */,
+				1869A3AE2C8EE58B00124DBB /* MeView.swift */,
+				1869A3B12C8F74EB00124DBB /* ContentView.swift */,
 				189020D62C83439B00707356 /* HotProspectsApp.swift */,
-				189020D82C83439B00707356 /* ContentView.swift */,
+				1869A3AC2C8EE57300124DBB /* ProspectsView.swift */,
+				1869A3B32C8F7B9800124DBB /* Prospect.swift */,
 				189020DA2C83439D00707356 /* Assets.xcassets */,
 				189020DC2C83439D00707356 /* Preview Content */,
 			);
@@ -83,6 +131,10 @@
 			dependencies = (
 			);
 			name = HotProspects;
+			packageProductDependencies = (
+				1869A3B82C90556000124DBB /* SamplePackage */,
+				1869A3BB2C906F7000124DBB /* CodeScanner */,
+			);
 			productName = HotProspects;
 			productReference = 189020D32C83439B00707356 /* HotProspects.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +163,10 @@
 				Base,
 			);
 			mainGroup = 189020CA2C83439B00707356;
+			packageReferences = (
+				1869A3B72C90556000124DBB /* XCRemoteSwiftPackageReference "SamplePackage" */,
+				1869A3BA2C906F7000124DBB /* XCRemoteSwiftPackageReference "CodeScanner" */,
+			);
 			productRefGroup = 189020D42C83439B00707356 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -137,8 +193,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				189020D92C83439B00707356 /* ContentView.swift in Sources */,
+				1869A3852C859D7700124DBB /* SwipeActionView.swift in Sources */,
+				1869A3B42C8F7B9800124DBB /* Prospect.swift in Sources */,
+				1869A3B22C8F74EB00124DBB /* ContentView.swift in Sources */,
+				189020D92C83439B00707356 /* ContentViewSecond.swift in Sources */,
+				1869A3B62C9051A100124DBB /* PackageManagerUI.swift in Sources */,
+				189020E72C83C52A00707356 /* ResultView.swift in Sources */,
+				1869A3AD2C8EE57300124DBB /* ProspectsView.swift in Sources */,
+				1869A3AF2C8EE58B00124DBB /* MeView.swift in Sources */,
+				189020E92C83D82700707356 /* InterpolationView.swift in Sources */,
+				18FAC2E42CA4302700CF9126 /* PracticeUIView.swift in Sources */,
+				189020E52C838F6300707356 /* TabViewUI.swift in Sources */,
+				189020EB2C83DDD400707356 /* ContextMenuUI.swift in Sources */,
 				189020D72C83439B00707356 /* HotProspectsApp.swift in Sources */,
+				1869A3872C85A36100124DBB /* NotificationsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,6 +343,8 @@
 				DEVELOPMENT_TEAM = UXPFR8BLZ6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "We want to save your QR code.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -304,6 +374,8 @@
 				DEVELOPMENT_TEAM = UXPFR8BLZ6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "We want to save your QR code.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -344,6 +416,38 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		1869A3B72C90556000124DBB /* XCRemoteSwiftPackageReference "SamplePackage" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/twostraws/SamplePackage";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.0.0;
+			};
+		};
+		1869A3BA2C906F7000124DBB /* XCRemoteSwiftPackageReference "CodeScanner" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/twostraws/CodeScanner";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.5.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		1869A3B82C90556000124DBB /* SamplePackage */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 1869A3B72C90556000124DBB /* XCRemoteSwiftPackageReference "SamplePackage" */;
+			productName = SamplePackage;
+		};
+		1869A3BB2C906F7000124DBB /* CodeScanner */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 1869A3BA2C906F7000124DBB /* XCRemoteSwiftPackageReference "CodeScanner" */;
+			productName = CodeScanner;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 189020CB2C83439B00707356 /* Project object */;
 }
